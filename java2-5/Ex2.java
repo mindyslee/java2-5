@@ -1,0 +1,4 @@
+/*
+ * verse("duck", "quack");
+ * 
+ */
